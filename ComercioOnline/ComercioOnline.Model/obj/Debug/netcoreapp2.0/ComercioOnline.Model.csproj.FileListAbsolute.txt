@@ -1,0 +1,9 @@
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Model\bin\Debug\netcoreapp2.0\ComercioOnline.Model.deps.json
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Model\bin\Debug\netcoreapp2.0\ComercioOnline.Model.dll
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Model\obj\Debug\netcoreapp2.0\ComercioOnline.Model.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Model\obj\Debug\netcoreapp2.0\ComercioOnline.Model.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Model\obj\Debug\netcoreapp2.0\ComercioOnline.Model.AssemblyInfo.cs
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Model\bin\Debug\netcoreapp2.0\ComercioOnline.Model.pdb
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Model\obj\Debug\netcoreapp2.0\ComercioOnline.Model.csprojResolveAssemblyReference.cache
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Model\obj\Debug\netcoreapp2.0\ComercioOnline.Model.dll
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Model\obj\Debug\netcoreapp2.0\ComercioOnline.Model.pdb

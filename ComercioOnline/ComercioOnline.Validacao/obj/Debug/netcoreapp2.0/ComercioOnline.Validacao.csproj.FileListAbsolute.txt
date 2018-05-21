@@ -1,0 +1,12 @@
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\bin\Debug\netcoreapp2.0\ComercioOnline.Validacao.deps.json
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\bin\Debug\netcoreapp2.0\ComercioOnline.Validacao.dll
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\obj\Debug\netcoreapp2.0\ComercioOnline.Validacao.csprojResolveAssemblyReference.cache
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\obj\Debug\netcoreapp2.0\ComercioOnline.Validacao.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\obj\Debug\netcoreapp2.0\ComercioOnline.Validacao.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\obj\Debug\netcoreapp2.0\ComercioOnline.Validacao.AssemblyInfo.cs
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\bin\Debug\netcoreapp2.0\ComercioOnline.Validacao.pdb
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\bin\Debug\netcoreapp2.0\ComercioOnline.Model.dll
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\bin\Debug\netcoreapp2.0\ComercioOnline.Model.pdb
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\obj\Debug\netcoreapp2.0\ComercioOnline.Validacao.csproj.CopyComplete
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\obj\Debug\netcoreapp2.0\ComercioOnline.Validacao.dll
+C:\Users\wesle\source\repos\VisualStudio(Testes)\ComercioOnline\ComercioOnline.Validacao\obj\Debug\netcoreapp2.0\ComercioOnline.Validacao.pdb
